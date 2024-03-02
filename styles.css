@@ -3,12 +3,6 @@ body {
   background-color: #011F3F;
 }
 
-body, html {
-  height: 100%;
-  margin: 0;
-  overflow: hidden;
-}
-
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
