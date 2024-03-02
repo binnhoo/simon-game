@@ -1,8 +1,12 @@
 body {
   text-align: center;
   background-color: #011F3F;
+}
+
+body, html {
+  height: 100%;
   margin: 0;
-  height: 100hv;
+  overflow: hidden;
 }
 
 #level-title {
